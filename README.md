@@ -8,6 +8,8 @@
  
  ![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
 ![](https://komarev.com/ghpvc/?username=Jianend&color=green)
+
+-![Jokes Card](https://api.ixiaowai.cn/api/api.php)
 <body style="background: #FFFFFF url(https://api.ixiaowai.cn/api/api.php) no-repeat fixed center;"opacity:1;>
 
 <!---
