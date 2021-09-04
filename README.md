@@ -1,4 +1,4 @@
--![我的博客](https://jianend.github.io/img/male.png "请多多指教") 
+-[![我的博客](https://jianend.github.io/img/male.png "请多多指教")](https://jianend.github.io/)
 - ![Metrics](https://metrics.lecoq.io/Jianend?template=classic&config.timezone=Asia%2FShanghai)|
 ![Top Langs](https://stats.justsong.cn/api/bilibili/?id=457688642)
   
