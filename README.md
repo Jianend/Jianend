@@ -2,8 +2,7 @@
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jianend&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jianend&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
--[![Top Langs](https://stats.justsong.cn/api/bilibili/?id=457688642)]
+[![Top Langs](https://stats.justsong.cn/api/bilibili/?id=457688642)]
 
 [我的博客](https://jianend.github.io/index.html "请多多指教")  
 -----------
