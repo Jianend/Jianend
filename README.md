@@ -4,7 +4,7 @@
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jianend&show_icons=true&theme=radical)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jianend&layout=compact)
-
+-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jianend)](https://git.io/streak-stats)
  
  <body style="background: #FFFFFF url(https://api.ixiaowai.cn/api/api.php) no-repeat fixed center;"opacity:1;>
 
