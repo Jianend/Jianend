@@ -4,7 +4,7 @@
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jianend&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jianend&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
--[我的博客](https://jianend.github.io/index.html "请多多指教")  
+ 
  <body style="background: #FFFFFF url(https://api.ixiaowai.cn/api/api.php) no-repeat fixed center;"opacity:1;>
 
 <!---
