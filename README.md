@@ -6,7 +6,7 @@
 
 -[我的博客](https://jianend.github.io/index.html "请多多指教")  
  <body style="background: #FFFFFF url(https://api.ixiaowai.cn/api/api.php) no-repeat fixed center;"opacity:1;>
-a|s
+
 <!---
 Jianend/Jianend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
