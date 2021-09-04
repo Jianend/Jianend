@@ -5,7 +5,7 @@
 
 -[![Top Langs](https://stats.justsong.cn/api/bilibili/?id=457688642)]
 
-[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")  
+[我的博客](https://jianend.github.io/index.html "请多多指教")  
 -----------
 
 <!---
