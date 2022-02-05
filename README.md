@@ -1,5 +1,5 @@
-<meta http-equiv="refresh" content="5">
-
+![](http://abc.jianend.xyz/m.php)
+==
 -![我的博客](http://abc.jianend.xyz/m.php "请多多指教")]
 - ![Metrics](https://metrics.lecoq.io/Jianend?template=classic&config.timezone=Asia%2FShanghai)|
 ![Top Langs](https://stats.justsong.cn/api/bilibili/?id=457688642)
@@ -12,8 +12,7 @@
 -![](https://komarev.com/ghpvc/?username=Jianend&color=green)
 
 -![Jokes Card](https://www.dmoe.cc/random.php)
-<body style="background: #FFFFFF url(https://api.ixiaowai.cn/api/api.php) no-repeat fixed center;"opacity:1;>
- <body style="background: #FFFFFF url(http://abc.jianend.xyz/m.php) no-repeat fixed center;"opacity:1;>
+
 <img src=http://abc.jianend.xyz/m.php/>
 
 ====
