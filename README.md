@@ -1,7 +1,7 @@
 ![](https://www.dmoe.cc/random.php)
 ==
 [![我的博客]](https://jianend.github.io/)
--![我的博客](http://abc.jianend.xyz/m.php "请多多指教")
+[我的博客]:http://abc.jianend.xyz/m.php "请多多指教"
 
 - ![Metrics](https://metrics.lecoq.io/Jianend?template=classic&config.timezone=Asia%2FShanghai)|
 ![Top Langs](https://stats.justsong.cn/api/bilibili/?id=457688642)
