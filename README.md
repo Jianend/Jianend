@@ -15,7 +15,10 @@
 -![](https://komarev.com/ghpvc/?username=Jianend&color=green)
 
 -![Jokes Card](https://www.dmoe.cc/random.php)
-
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+点击这里来显示日期和时间
+</button>
 
 <!---
 Jianend/Jianend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
