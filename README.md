@@ -15,7 +15,7 @@
 -![](https://komarev.com/ghpvc/?username=Jianend&color=green)
 
 -![Jokes Card](https://www.dmoe.cc/random.php)
-<script>alert(“Attack!”)</script>
+alert(“Attack!”)
 
 <!---
 Jianend/Jianend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
