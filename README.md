@@ -15,10 +15,6 @@
 -![](https://komarev.com/ghpvc/?username=Jianend&color=green)
 -![](124.220.176.110:7500/w.php)
 
--!(https://www.dmoe.cc/random.php)
-! [text ] (https://www.dmoe.cc/random.php)
-alert(“Attack!”)
-
 <!---
 Jianend/Jianend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
