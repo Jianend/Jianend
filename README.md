@@ -15,7 +15,7 @@
 -![](https://komarev.com/ghpvc/?username=Jianend&color=green)
 -![](124.220.176.110:7500/w.php)
 
--![Jokes Card](124.220.176.110:7500/w.php)
+-!(https://www.dmoe.cc/random.php)
 alert(“Attack!”)
 
 <!---
