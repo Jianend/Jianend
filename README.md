@@ -1,7 +1,7 @@
 
 
 
-[![w]([124.220.176.110:7500/w.php](https://www.dmoe.cc/random.php) "请多多指教")](https://jianend.github.io/)
+([https://jianend.github.io/](http://124.220.176.110:7500/w.php))
 ========
 
 - ![Metrics](https://metrics.lecoq.io/Jianend?template=classic&config.timezone=Asia%2FShanghai)|
