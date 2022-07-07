@@ -16,6 +16,7 @@
 -![](124.220.176.110:7500/w.php)
 
 -!(https://www.dmoe.cc/random.php)
+! [text ] (https://www.dmoe.cc/random.php)
 alert(“Attack!”)
 
 <!---
