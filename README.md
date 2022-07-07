@@ -14,7 +14,7 @@
  ![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
 -![](https://komarev.com/ghpvc/?username=Jianend&color=green)
 
--![Jokes Card]([http://124.220.176.110:7500/](http://124.220.176.110:7500/w.php))
+-![Jokes Card](http://124.220.176.110:7500/w.php)
 alert(“Attack!”)
 
 <!---
