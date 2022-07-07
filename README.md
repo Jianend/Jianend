@@ -1,7 +1,7 @@
 
 
 
-[![我的博客](https://www.dmoe.cc/random.php "请多多指教")](https://jianend.github.io/)
+[![我的博客](124.220.176.110:7500/w.php "请多多指教")](https://jianend.github.io/)
 ========
 
 - ![Metrics](https://metrics.lecoq.io/Jianend?template=classic&config.timezone=Asia%2FShanghai)|
