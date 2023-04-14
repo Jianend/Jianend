@@ -1,8 +1,4 @@
 
-
-
-========
-![啊](http://124.220.176.110:2289/tp) 
 - ![Metrics](https://metrics.lecoq.io/Jianend?template=classic&config.timezone=Asia%2FShanghai)|
 ![Top Langs](https://stats.justsong.cn/api/bilibili/?id=457688642)
   
@@ -12,10 +8,8 @@
  
  ![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
 -![](https://komarev.com/ghpvc/?username=Jianend&color=green)
--![](124.220.176.110:7500/w.php)
-![image](http://124.220.176.110:7500/w.php)
+<img src="http://124.220.176.110:2289/tp">
 
-<!---
 Jianend/Jianend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
